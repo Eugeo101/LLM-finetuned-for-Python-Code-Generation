@@ -1,4 +1,4 @@
-# CodeParrot-Style LLM Training Pipeline
+# Python Code generator using LLM Training Pipeline
 
 ## 1. Overview
 This project implements an end-to-end pipeline for training a GPT-style language model for Python code generation. It covers data collection, tokenizer training, model pretraining, and distributed training using Hugging Face Accelerate.
